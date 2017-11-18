@@ -23,5 +23,11 @@
     <ClInclude Include="ImageLoad.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="map_data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="tile_texture_data.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
